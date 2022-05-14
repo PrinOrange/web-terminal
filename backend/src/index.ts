@@ -1,1 +1,1 @@
-console.log('hello');
+import ws from 'ws';
